@@ -31,7 +31,7 @@ To run this project locally:
    javac -d . src/game_of_life/*.java
    java game_of_life.Main
 
-   ## Usage
+## Usage
 
 Once the program is running, you will see a graphical window with the following controls:
 
